@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Trailblazer Tent",
+    "price": 129.99,
+    "category": "Camping",
+    "description": "A lightweight two-person tent designed for comfortable weekend adventures.",
+    "imageUrl": "./images/trailblazer-tent.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Summit Backpack",
+    "price": 89.99,
+    "category": "Hiking",
+    "description": "A durable 30-liter backpack with plenty of storage for day hikes and short trips.",
+    "imageUrl": "./images/summit-backpack.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Campfire Lantern",
+    "price": 34.99,
+    "category": "Lighting",
+    "description": "A rechargeable LED lantern that provides bright light around the campsite.",
+    "imageUrl": "./images/campfire-lantern.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Alpine Sleeping Bag",
+    "price": 74.99,
+    "category": "Camping",
+    "description": "A warm and comfortable sleeping bag built for cool nights outdoors.",
+    "imageUrl": "./images/alpine-sleeping-bag.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Explorer Water Bottle",
+    "price": 24.99,
+    "category": "Hydration",
+    "description": "A reusable insulated bottle that keeps drinks cold during long outdoor adventures.",
+    "imageUrl": "./images/explorer-water-bottle.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Ridge Hiking Boots",
+    "price": 119.99,
+    "category": "Footwear",
+    "description": "Supportive hiking boots with durable soles designed for rugged trails.",
+    "imageUrl": "./images/ridge-hiking-boots.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Forest Hammock",
+    "price": 49.99,
+    "category": "Relaxation",
+    "description": "A lightweight hammock that makes it easy to relax between two sturdy trees.",
+    "imageUrl": "./images/forest-hammock.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Navigator Compass",
+    "price": 19.99,
+    "category": "Navigation",
+    "description": "A reliable outdoor compass designed to help hikers stay on course.",
+    "imageUrl": "./images/navigator-compass.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Trail Cookset",
+    "price": 44.99,
+    "category": "Cooking",
+    "description": "A compact cookware set with essential pieces for preparing meals outdoors.",
+    "imageUrl": "./images/trail-cookset.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Adventure Jacket",
+    "price": 99.99,
+    "category": "Apparel",
+    "description": "A lightweight weather-resistant jacket made for changing outdoor conditions.",
+    "imageUrl": "./images/adventure-jacket.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Trekking Poles",
+    "price": 39.99,
+    "category": "Hiking",
+    "description": "Adjustable trekking poles that provide extra stability on challenging trails.",
+    "imageUrl": "./images/trekking-poles.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Camp Comfort Chair",
+    "price": 59.99,
+    "category": "Camping",
+    "description": "A portable folding chair that provides comfortable seating at any campsite.",
+    "imageUrl": "./images/camp-comfort-chair.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Mountain Headlamp",
+    "price": 29.99,
+    "category": "Lighting",
+    "description": "A bright hands-free headlamp perfect for early morning and nighttime adventures.",
+    "imageUrl": "./images/mountain-headlamp.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Wilderness First Aid Kit",
+    "price": 32.99,
+    "category": "Safety",
+    "description": "A compact first aid kit containing essential supplies for outdoor emergencies.",
+    "imageUrl": "./images/wilderness-first-aid-kit.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Outdoor Adventure Blanket",
+    "price": 54.99,
+    "category": "Camping",
+    "description": "A soft, water-resistant blanket perfect for picnics, camping, and outdoor relaxation.",
+    "imageUrl": "./images/outdoor-adventure-blanket.jpg"
+  }
+]

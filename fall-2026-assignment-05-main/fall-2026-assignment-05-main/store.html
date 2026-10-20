@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Shop outdoor camping and hiking gear at Trail & Timber."
+    />
+    <title>Store | Trail & Timber</title>
+    <link rel="stylesheet" href="./src/styles/main.css" />
+  </head>
+
+  <body>
+    <header class="site-header">
+      <nav class="navbar">
+        <a class="logo" href="./index.html">Trail & Timber</a>
+
+        <div class="nav-links">
+          <a href="./index.html">Home</a>
+          <a href="./about.html">About</a>
+          <a class="active" href="./store.html">Store</a>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <section class="page-hero">
+        <div class="page-hero-content">
+          <p class="eyebrow">THE COLLECTION</p>
+          <h1>Explore Our Gear</h1>
+          <p>
+            Dependable equipment for camping, hiking, and your next outdoor
+            adventure.
+          </p>
+        </div>
+      </section>
+
+      <section class="store-section section">
+        <div class="section-heading store-heading">
+          <p class="eyebrow">TRAIL & TIMBER</p>
+          <h2>Outdoor Essentials</h2>
+          <p>
+            Browse our collection of gear built to help you enjoy the outdoors.
+          </p>
+        </div>
+
+        <!-- JavaScript will place the product cards here -->
+        <div id="product-grid" class="product-grid"></div>
+
+        <div class="pagination">
+          <button id="prev-btn" class="pagination-button" type="button">
+            ← Previous
+          </button>
+
+          <span id="page-indicator">Page 1 of 3</span>
+
+          <button id="next-btn" class="pagination-button" type="button">
+            Next →
+          </button>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-content">
+        <div>
+          <h3>Trail & Timber</h3>
+          <p>Quality gear for every adventure.</p>
+        </div>
+
+        <div>
+          <p>Store Hours: Mon–Sat, 9 AM–6 PM</p>
+          <p>&copy; 2026 Trail & Timber. All rights reserved.</p>
+        </div>
+      </div>
+    </footer>
+
+    <script type="module" src="./src/main.js"></script>
+  </body>
+</html>
